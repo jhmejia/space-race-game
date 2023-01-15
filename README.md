@@ -16,9 +16,11 @@ I made this game in order to test out Deep Reinforcement Learning to see if an A
 
 Pretty easy, just a simple pygame game for AI purposes.
 
-Download and unzip the project, then run the python file.
+Download and unzip the project, then run the python file: `py spacerace.py`.
 
-If needed, install the (single) dependency: `pip install pygame` 
+If needed, install the (single) dependency: `pip install pygame`
+NOTE: as of Jan 2023 pygame does not work on python 3.11. If you are having issues with pygame ty going to python 3.10.
 
-
+You can also edit the settings through the constants part if you really want to (self explanatory):
+![](https://i.imgur.com/hGRyTdj.png)
     
