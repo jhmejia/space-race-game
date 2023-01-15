@@ -29,7 +29,7 @@ MIN_SPEED_OF_STARS = 0.5
 DISABILITY_PENALTY_TIME = 200 # Frames you are disabled after hitting a star
 DISABILITY_PENALTY_POINTS = 0 # Points you lose when you hit a star
 NUM_STARS = 20
-GAME_TIME = 30 # Game time in seconds
+GAME_TIME = 60 # Game time in seconds
 
 
 
