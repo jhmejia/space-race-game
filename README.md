@@ -6,7 +6,7 @@ This is a (somewhat clone) of the 1973 Atari video game [Space Race](https://en.
 It plays like a hybrid of Asteroids and Frogger.
 It is a 2 player game where you need to get to the end as fast as you can within the time limit, without hitting the "stars"
 
-I made this game in order to test out Deep Reinforcement Learning to see if an AI could play this game well!
+I made this game in order to test out Deep Reinforcement Learning to see if an AI could play this game well! I didn't want to copy someone elses one (theres already a lot of "ai plays pong" or "ai plays frogger". I couldn't even find a python version of space race so this will do.)
 ## Demo
 
 ![](https://i.imgur.com/aCpxqL9.gif)
